@@ -184,3 +184,9 @@ pip-selfcheck.json
 
 # Built Visual Studio Code Extensions
 *.vsix
+
+
+## Custom ignore
+
+sandbox.ipynb
+sandbox.py
